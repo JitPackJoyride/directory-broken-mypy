@@ -10,7 +10,7 @@ pre-commit install
 pre-commit run --all-files
 ```
 
-## Set up on 
+## Set up working-example branch
 
 Check the branch `working-example` to see that it can work if not in a directory
 But need to run:
